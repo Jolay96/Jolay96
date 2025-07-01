@@ -1,5 +1,5 @@
 ## Hi there 👋
-i, I'm Joshua Olayemi 🔬 Machine Learning Engineer | Data Scientist 
+ I'm Joshua Olayemi 🔬 Machine Learning Engineer | Data Scientist 
 
 🧠 About Me: I'm a store manager turned machine learning engineer, passionate about transforming complex datasets into actionable insights. With expertise in machine learning, statistical programming, and data mining, I specialize in developing predictive models that drive strategic decision-making. I believe in creating longer tables and shorter fences, fostering collaboration and innovation.
 
