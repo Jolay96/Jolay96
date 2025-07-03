@@ -21,7 +21,6 @@
 
 🖼️ Image Data Generator (Computer Vision) Utilized Keras' ImageDataGenerator to augment image datasets for deep learning in computer vision. Visualized real-time image transformations to improve model generalization and reduce overfitting.
 
-📫 Let's Connect https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile 
 <!--
 **Jolay96/Jolay96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
