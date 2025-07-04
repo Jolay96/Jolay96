@@ -21,7 +21,7 @@
 
 🖼️ Image Data Generator (Computer Vision) Utilized Keras' ImageDataGenerator to augment image datasets for deep learning in computer vision. Visualized real-time image transformations to improve model generalization and reduce overfitting.
 
-The link to my bootcamp(TRIPLETEN) projects are [here](https://github.com/Jolay96/TripleTenProjects-)
+The link to all my bootcamp(TRIPLETEN) projects are [here](https://github.com/Jolay96/TripleTenProjects-)
 <!--
 **Jolay96/Jolay96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
